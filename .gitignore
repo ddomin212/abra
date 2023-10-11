@@ -1,0 +1,5 @@
+/node_modules
+/other
+/static/**
+INFO.md
+.env
